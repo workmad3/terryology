@@ -9,7 +9,7 @@
 > because the square root of four is two, so what's the square root of two?
 > Should be one, but we're told its two, and that cannot be."
 
-[http://mashable.com/2015/09/14/terrence-howard-one-times-one/#fmaOD0hcxZqY]
+http://mashable.com/2015/09/14/terrence-howard-one-times-one/#fmaOD0hcxZqY
 
 ## Installation
 
