@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{The fundamental rule of Terryology}
   spec.description   = %q{1 * 1 == 2. The fundamental rule of Terryology}
   spec.homepage      = "https://github.com/workmad3/terryology"
-  spec.licences      = ["MIT"]
+  spec.licenses      = ["MIT"]
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
