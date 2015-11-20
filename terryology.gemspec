@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["me@workmad3.com"]
 
   spec.summary       = %q{The fundamental rule of Terryology}
-  spec.description   = %q{The fundamental rule of Terryology}
+  spec.description   = %q{The fundamental rule of Terryology. http://mashable.com/2015/09/14/terrence-howard-one-times-one/#fmaOD0hcxZqY}
   spec.homepage      = "https://github.com/workmad3/terryology"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
